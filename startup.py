@@ -1,5 +1,8 @@
+import maya.cmds as cmds
+
 print "Startup"
 
-from ui import ui
+
+import rigui.ui as ui
 
 #reload(ui)
