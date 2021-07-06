@@ -1,7 +1,10 @@
 import os
 import sys
-import pymel.core as pm
+
+from maya import cmds
 
 print 'In User Setup'
 
-pm.evalDeferred('import startup')
+sys.path.append('D:\GitRepositories\Python101')
+
+cmds.evalDeferred('import startup')
