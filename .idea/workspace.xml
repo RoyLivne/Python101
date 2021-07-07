@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1410b99c-2505-4d9d-a883-a8e18ce4b876" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python101.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python101.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rig/arm_rig.py" beforeDir="false" afterPath="$PROJECT_DIR$/rig/arm_rig.py" afterDir="false" />
     </list>
