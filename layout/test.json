@@ -1,0 +1,1 @@
+{"positions": [[3, 0, 3], [0, 0, 0], [1, 0, -4], [0, 0, -7]], "FkJoints": ["C_armFK_JNT", "C_elbowFK_JNT", "C_wristFK_JNT"], "ikJoints": [["C_armIK_JNT", [3, 0, 3]], ["C_elbowIK_JNT", [0, 0, 0]], ["C_wristIK_JNT", [1, 0, -4]]]}

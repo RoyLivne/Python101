@@ -13,6 +13,7 @@ def readJson(fileName):
         data = (open(infile.name, 'r').read())
     return data
 
+"""
 
 def createJoint(name, position, instance):
     # Use a list comprehension to build joints.
@@ -101,3 +102,5 @@ def findHighestTrailingNumber(names, basename):
                         highestValue = numericalElement + 1
         else:
             highestValue = 1
+
+"""
